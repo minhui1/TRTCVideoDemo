@@ -196,6 +196,9 @@ Demo 运行界面如图所示：
 >?WebRTC 需要使用摄像头和麦克风采集音视频，在体验过程中您可能会收到来自 Chrome 浏览器的相关提示，单击【允许】。
 > ![](https://main.qcloudimg.com/raw/1a2c1e7036720b11f921f8ee1829762a.png)
 
+Demo 访问地址：
+https://minhui1.github.io/TRTCVideoDemo/
+
 ## 常见问题
 
 ### 1. 查看密钥时只能获取公钥和私钥信息，要如何获取密钥？
